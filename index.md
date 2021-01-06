@@ -30,6 +30,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - My favorite phrase from Dragon Ball Z abridged Goku:
     > Muffin button
 - My favorite animal 🐬
+- Animes:
+  - _Kuroko No Basket_
+  - _Attack On Titan_
+  - _Fate_
 
 ## Some basic bash commands:
 ```
