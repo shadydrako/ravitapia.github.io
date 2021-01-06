@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/shadydrako/ravitapia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi welcome to my page!
 
 ### Markdown
 
@@ -25,6 +23,30 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+# Who am I
+My name is Ravi Tapia, and I am currently a 2nd year Computer Science Major at UCSD. This is where I will be putting most of my projects such as _Flirty Bot_ and future ideas. 
+
+## Why Computer Science? 
+
+I chose computer science because ever since I was child I have been interested in programs through my love of games. I always wanted to create my own games
+and create something that would benefit the world or bring joy it. Everytime one of my projects is able to work or my print statements like `Hello world` works, I was filled with joy.  
+
+### Langauges
+- C++
+- Java
+- Javascript
+- Node.js
+
+I am new to github so please **bare with me**.
+
+Please follow me on [Instragram](https://www.instagram.com/rravi.tpia/) for other questions or just to be friends!
+
+**Flirty Bot** was a discord bot I made during summer as a little side project. It interacts with users, gives them words of affirmations, and in other cases pick up lines, hence the name flirty bot. It is a work in progress and I plan to make it do much more!
+
+Use this [link](https://discord.com/oauth2/authorize?client_id=744971416096604191&permissions=0&scope=bot) to add it to your own discord server.
+
+![Flirty bot image](
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
