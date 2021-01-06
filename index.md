@@ -1,28 +1,4 @@
-## Welcome to GitHub Pages
-
-Hi welcome to my page!
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## Welcome to my website!
 
 # Who am I
 My name is Ravi Tapia, and I am currently a 2nd year Computer Science Major at UCSD. This is where I will be putting most of my projects such as _Flirty Bot_ and future ideas. 
