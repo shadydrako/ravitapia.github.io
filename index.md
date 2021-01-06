@@ -46,7 +46,7 @@ Please follow me on [Instragram](https://www.instagram.com/rravi.tpia/) for othe
 
 Use this [link](https://discord.com/oauth2/authorize?client_id=744971416096604191&permissions=0&scope=bot) to add it to your own discord server.
 
-![Flirty bot image](
+![Flirty bot image](Capture.JPG)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
