@@ -29,7 +29,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - My first print statement: `System.out.print.ln("I really hope this works");`
 - My favorite phrase from Dragon Ball Z abridged Goku:
     > Muffin button
-- My favorite animal :dolphin:
+- My favorite animal 🐬
 
 ## Some basic bash commands:
 ```
