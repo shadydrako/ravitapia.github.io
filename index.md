@@ -9,10 +9,9 @@ I chose computer science because ever since I was child I have been interested i
 and create something that would benefit the world or bring joy it. Everytime one of my projects is able to work or my print statements like `Hello world` works, I was filled with joy.  
 
 ### Langauges
-- C++
-- Java
-- Javascript
-- Node.js
+1. C++
+2. Java
+3. Javascript
 
 I am new to github so please **bare with me**.
 
@@ -25,6 +24,13 @@ Use this [link](https://discord.com/oauth2/authorize?client_id=74497141609660419
 ![Flirty bot image](Capture.JPG)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## Fun facts:
+- My senior quote: `Late work is the best work`
+- My favorite phrase from Dragon Ball Z abridged Goku:
+    > Muffin button
+- My favorite animal: ::dolphin::
+
 
 ### Jekyll Themes
 
