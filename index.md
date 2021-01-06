@@ -26,10 +26,26 @@ Use this [link](https://discord.com/oauth2/authorize?client_id=74497141609660419
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Fun facts:
-- My senior quote: `Late work is the best work`
+- My first print statement: `System.out.print.ln("I really hope this works");`
 - My favorite phrase from Dragon Ball Z abridged Goku:
     > Muffin button
 - My favorite animal: ::dolphin::
+
+## Some basic bash commands:
+```
+ls
+cat
+echo
+cd
+```
+
+## Goals for this year
+- [x] Create a discord bot
+- [ ] Play guitar
+- [ ] Do a backflip
+
+
+
 
 
 ### Jekyll Themes
